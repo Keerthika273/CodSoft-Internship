@@ -1,0 +1,88 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    
+
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+.main-content
+{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.rNGESuO8cQagpQBlQie0OgHaEK&pid=Api&P=0&h=180");
+    padding: 60px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.horizontal-section {
+    padding: 20px;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    float: right; /* Float sections to make them horizontal */
+}
+.home{
+    padding: 150px;
+    border: 1px solid #ddd;
+    background-image: url("https://wallpapertag.com/wallpaper/middle/5/f/f/332132-gorgerous-tech-background-1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: right;
+
+
+}
+.i2
+{
+    float: right;
+}
+
+.i3
+{
+    float:left;
+
+}
